@@ -1,11 +1,12 @@
 
-import UserData from "./userData";
+import { Link } from 'react-router-dom'
 
 export default function Header(){
     return(
         <div className="bg-red-500">
-            <h1 className="font-bold">Crystal Beauty Clear</h1>
-            <p>header portal come back always</p>
+            <Link to="/">Home</Link>
+            <Link to="/login">Login</Link>
+            <Link to="/signup">Sign Up</Link>
         </div>
     )
 }
