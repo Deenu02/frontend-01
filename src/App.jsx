@@ -37,3 +37,8 @@ function App() {
 }
 
 export default App
+
+
+//https://fwzofuhuoisjghczgvrn.supabase.co/rest/v1/
+
+//sb_publishable_Gc_zeMcfuByuIl3dLwY10g_lr48JP1v
